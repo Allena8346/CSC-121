@@ -1,0 +1,9 @@
+Movie,TicketsSold,TicketPrice,Revenue,Rating
+Galactic Rift,210,$19.00,"$3,990.00",Blockbuster
+Jurassic World: Rebirth,200,$18.00,"$3,600.00",Blockbuster
+Skyfall 2,175,$16.00,"$2,800.00",Moderate Hit
+Supernova,150,$17.00,"$2,550.00",Moderate Hit
+Echoes,120,$16.50,"$1,980.00",Low Performer
+Neon Horizon,105,$14.50,"$1,522.50",Low Performer
+F1: The Movie,90,$13.50,"$1,215.00",Low Performer
+Moonlight Mirage,60,$12.00,$720.00,Low Performer
