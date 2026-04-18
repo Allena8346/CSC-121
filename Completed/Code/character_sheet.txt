@@ -1,0 +1,14 @@
+============================================================
+S.P.E.C.I.A.L. CHARACTER SHEET
+============================================================
+
+Strength        [10] - Legendary
+Perception      [ 6] - Above Average
+Endurance       [ 4] - Below Average
+Charisma        [ 4] - Below Average
+Intelligence    [ 8] - Very Good
+Agility         [ 3] - Poor
+Luck            [ 1] - Terrible
+
+Total Points Used: 29/28
+============================================================

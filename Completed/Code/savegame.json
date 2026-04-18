@@ -1,0 +1,37 @@
+{
+    "name": "John",
+    "health": 123,
+    "max_health": 136,
+    "attack_power": 34,
+    "level": 2,
+    "experience": 106,
+    "exp_to_next_level": 150,
+    "critical_chance": 31,
+    "dodge_chance": 10,
+    "special": {
+        "attributes": {
+            "Strength": 10,
+            "Perception": 6,
+            "Endurance": 4,
+            "Charisma": 4,
+            "Intelligence": 8,
+            "Agility": 3,
+            "Luck": 1
+        },
+        "total_points": 28,
+        "used_points": 29,
+        "available_points": -1
+    },
+    "inventory": [
+        {
+            "name": "Greater Health Potion",
+            "type": "health_potion",
+            "value": 50
+        },
+        {
+            "name": "Power Crystal",
+            "type": "attack_boost",
+            "value": 10
+        }
+    ]
+}
